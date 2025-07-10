@@ -7,6 +7,7 @@ ext {
 }
 
 android {
+    namespace 'com.emmasuzuki.easyform'
     compileSdkVersion 29
     publishNonDefault true
 
